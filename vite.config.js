@@ -5,5 +5,5 @@ import { defineConfig } from "vite";
 export default defineConfig({
   plugins: [react()],
   // Relative paths so the build works on GitHub Pages project sites and any static host
-  base: "/Portfolio",
+  base: "/Portfolio/",
 });
