@@ -11,7 +11,7 @@ Built with React + Vite. Deploys free on GitHub Pages.
 - **Skills marquee** — infinite scrolling strip of her stack
 - **About** — bio + quick facts
 - **Skills** — 6 color-coded groups (Languages, Data & AI, Backend, Frontend, CS Core, Tools)
-- **Projects** — - **Projects** — 7 featured projects with 3D mouse-tilt cards, mouse-tracking
+- **Projects**  — 7 featured projects with 3D mouse-tilt cards, mouse-tracking
 - **Journey** — SafeX internship + BSIT education timelines
 - **Contact** — email, GitHub, LinkedIn (no phone, as requested)
 - **CV download** — her CV PDF is bundled (`public/ayesha-saleem-cv.pdf`)
