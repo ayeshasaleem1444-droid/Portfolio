@@ -101,7 +101,7 @@ export const projects = [
     title: "FastAPI + PostgreSQL CRUD API",
     icon: "⚡",
     description:
-      "REST API with full create, read, update, and delete operations backed by a PostgreSQL database.",
+      "REST API for item management built with FastAPI and PostgreSQL — create, list and delete items, with Pydantic validation and SQLAlchemy",
     tech: ["Python", "FastAPI", "PostgreSQL", "REST APIs"],
     github: "https://github.com/ayeshasaleem1444-droid/fastapi_postgresql",
     demo: null,
@@ -155,18 +155,17 @@ export const projects = [
 ];
 
 export const experience = [
-
-    {
-    title: 'Freelance Full-Stack Developer',
-    org: 'Hussain Clinic (Client Project)',
-    meta: 'Shahdara, Lahore · Oct 2026 – Present · Live: hussainclinic.pages.dev',
-    color: '#b8f53d',
+  {
+    title: "Freelance Full-Stack Developer",
+    org: "Hussain Clinic (Client Project)",
+    meta: "Shahdara, Lahore · Oct 2026 – Present · Live: hussainclinic.pages.dev",
+    color: "#b8f53d",
     points: [
-      'Built and deployed a complete appointment-booking system for a real clinic client: patients book online, the doctor approves or rejects from a dashboard, and both sides receive email notifications.',
-      'Bilingual English/Urdu site with online video consultations. Stack: React, FastAPI, PostgreSQL (Neon), Brevo.',
+      "Built and deployed a complete appointment-booking system for a real clinic client: patients book online, the doctor approves or rejects from a dashboard, and both sides receive email notifications.",
+      "Bilingual English/Urdu site with online video consultations. Stack: React, FastAPI, PostgreSQL (Neon), Brevo.",
     ],
   },
-{
+  {
     title: "Web Development Intern",
     org: "SafeX Solutions",
     meta: "Skills Development Internship Program · Remote · Jul 2026 – Sep 2026",
@@ -175,7 +174,7 @@ export const experience = [
       "Worked on web applications and APIs within a professional development workflow.",
       "Completed the internship program and received a Certificate of Internship in Web Development.",
     ],
-  }
+  },
 ];
 
 export const education = [
